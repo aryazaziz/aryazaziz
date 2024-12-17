@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->tytt
+-->a versatile number guessing game offering two models:
+1. Challenge the computer - compete against the computer by guessing their selected number.
+2. Have the computer aim to guess your number.
+
+This project built to focus on user engagement, provides an interactive user experience demonstrating computer decision making.
